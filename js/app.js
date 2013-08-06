@@ -1,4 +1,4 @@
-// Hybrid, responsive app foundation
+// jQuery Promises and Caching Demo
 
 	promiseDemo = {
 		init: function() {
